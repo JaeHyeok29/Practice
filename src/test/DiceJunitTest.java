@@ -60,6 +60,7 @@ public class DiceJunitTest {
         assertEquals(exception.getMessage(),"1 미만 또는 6초과 주사위는 생성할 수 없습니다.");
     }
 
+
     @AfterAll
     void done() {
         System.out.println("done");
