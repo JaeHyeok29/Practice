@@ -1,4 +1,4 @@
-
+package main;
 public class DiceCalculator {
 
     public static int addDice(Dice first, Dice second) {
